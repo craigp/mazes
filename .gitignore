@@ -6,3 +6,4 @@ erl_crash.dump
 *.rb
 *.beam
 mazes
+tags
